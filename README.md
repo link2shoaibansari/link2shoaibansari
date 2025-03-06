@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md SHoaib Ansari</h1>
 <h3 align="center">A passionate CSE student from India</h3>
-![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/50f3e328-1574-4908-b432-61dd3a270fac)
 
 - 🔭 I’m currently working on **SOS emergency app**
 
@@ -75,10 +74,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=link2shoaibansari&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=link2shoaibansari&show_icons=true&locale=en&layout=compact" alt="link2shoaibansari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=link2shoaibansari&show_icons=true&locale=en" alt="link2shoaibansari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=link2shoaibansari&" alt="link2shoaibansari" /></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
