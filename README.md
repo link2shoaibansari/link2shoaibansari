@@ -1,15 +1,3 @@
-{
-  s = pDraw->pPixels;
-  // Translate the 8-bit pixels through the RGB565 palette (already byte reversed)
-  for (x=0; x<pDraw->iWidth; x++)
-  {
-   OneEightMatrixDisplay->drawPixel(x, y, usPalette[*s++]); // color 565
-       
-  }
-}
-   OneEightMatrixDisplay->setCursor(0, 12); 
-   OneEightMatrixDisplay->print(" Hi, I am Md Shoaib Ansari 🤙 ");
-
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/50f3e328-1574-4908-b432-61dd3a270fac)
 
 # 💫 About Me:
