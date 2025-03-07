@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md SHoaib Ansari</h1>
+<h1 align="center">Hi 👋, I'm Md Shoaib Ansari</h1>
 <h3 align="center">A passionate CSE student from India</h3>
 
 - 🔭 I’m currently working on **SOS emergency app**
