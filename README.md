@@ -40,6 +40,10 @@
 
 ![219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8](https://github.com/user-attachments/assets/118b4fb0-7ba4-4dfc-a531-227e91f4a281)
 
+# My Google Dev Badges:
+
+![Screenshot 2025-03-10 000801](https://github.com/user-attachments/assets/c714b5f0-3472-45d3-b130-66407f937f76)
+
 
 # LeetCode Stats:
 ![212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c](https://github.com/user-attachments/assets/8b1094e3-0be9-48ff-aa22-cd44ae7f65a3)
