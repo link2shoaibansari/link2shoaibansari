@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Md Shoaib Ansari</h1>
-<h3 align="center">A passionate CSE student from India</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+🙃;+I'm+Md+Shoaib+Ansari;" /><br>
+</h1>
 
 - 🔭 I’m currently working on **SOS emergency application**
 
@@ -28,21 +29,98 @@
 </p>
 
 
-![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/8f2c8cb3-881f-44d3-a305-ba149acfd6f0)
+### LeetCode:
 
-
-# 💻 Tech Stack:
-![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/user-attachments/assets/d892fac9-b358-4693-926d-e3f6b79e6cf3)
+<div align="center" style="font-family: Arial, sans-serif; margin-top: 20px;">
+  <a href="https://leetcode.com/u/link2shoaib/" style="text-decoration: none; color: inherit;">
+    <table style="border-collapse: separate; border-spacing: 15px 10px;">
+      <tr>
+        <td align="center">
+          <img src="https://assets.leetcode.com/static_assets/others/2550.gif" 
+               alt="LeetCode 50" 
+               style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">LeetCode 50</div>
+        </td>
+        <td align="center">
+          <img src="https://leetcode.com/static/images/badges/2024/gif/2024-12.gif" 
+               alt="LeetCode December 2024" 
+               style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">December 2024</div>
+        </td>
+        <td align="center">
+          <img src="https://assets.leetcode.com/static_assets/marketing/202501.gif" 
+               alt="LeetCode January 2025" 
+               style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">January 2025</div>
+        </td>
+        <td align="center">
+          <img src="https://assets.leetcode.com/static_assets/marketing/202502.gif" 
+               alt="LeetCode February 2025" 
+               style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">February 2025</div>
+        </td>
+      </tr>
+    </table>
+  </a>
+</div>
 
 # ⚓ My skills:
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8](https://github.com/user-attachments/assets/118b4fb0-7ba4-4dfc-a531-227e91f4a281)
-
 # My Google Dev Badges:
 
-![Screenshot 2025-03-10 000801](https://github.com/user-attachments/assets/c714b5f0-3472-45d3-b130-66407f937f76)
+<div align="center" style="font-family: Arial, sans-serif; margin-top: 12px;">
+  <a href="https://developers.google.com/profile/u/link2shoaib" style="text-decoration: none; color: inherit;">
+    <table style="border-collapse: separate; border-spacing: 15px 10px;">
+      <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/community/solution-challenge/2024/registered/badge.svg" 
+               alt="Google Solution Clallenge'24" 
+               style="width: 100px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Solution Clallenge'24</div>
+        </td>
+      <tr>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2023/attendee/badge.svg" 
+               alt="DevFest'23 Attendee" 
+               style="width: 100px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">DevFest'23 Attendee</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/skillsboost/earned-badge/badge.svg" 
+               alt="Google Cloud Skill Boost" 
+               style="width: 100px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Cloud Skill Boost</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/community/tec/member/badge.svg" 
+               alt="TechEquity Collective Member" 
+               style="width: 100px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">TechEquity Collective Member</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" 
+               alt="Google Cloud Innovator" 
+               style="width: 100px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Cloud Innovator</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/community/innovators/maps/badge.svg" 
+               alt="Maps Platform Innovator" 
+               style="width: 100px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Maps Platform Innovator</div>
+        </td>
+        <td align="center">
+          <img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" 
+               alt="Google Dev Program" 
+               style="width: 120px; height: 120px; border-radius: 50%;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Dev Program</div>
+        </td>
+        </td>
+      </tr>
+    </table>
+  </a>
+</div>
 
 
 # LeetCode Stats:
