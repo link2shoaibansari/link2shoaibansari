@@ -122,6 +122,8 @@
   </a>
 </div>
 
+Profile:
+
 ![212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c](https://github.com/user-attachments/assets/8b1094e3-0be9-48ff-aa22-cd44ae7f65a3)
 ![](https://leetcard.jacoblin.cool/link2shoaib?cache=0)
 ![](https://leetcard.jacoblin.cool/link2shoaib?ext=heatmap)
@@ -129,15 +131,23 @@
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/link2shoaib/)
 
 
-# 📊 GitHub Stats:
-![212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa](https://github.com/user-attachments/assets/d55581b8-4856-4ae8-bb29-c4cccd147604)
+ <h3 align="left">GitHub | Stats</h3>
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=link2shoaibansari&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=link2shoaibansari&theme=algolia&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=link2shoaibansari&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=link2shoaibansari&theme=radical">
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=link2shoaibansari&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=link2shoaibansari&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=link2shoaibansari&theme=radical">
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=link2shoaibansari&theme=radical&utcOffset=8">
+<img height="169em" src="https://github-readme-stats.vercel.app/api?username=link2shoaibansari&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
+<img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=link2shoaibansari&theme=radical">
+<h2>🐍 Contribution Graph</h2>
+</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=link2shoaibansari&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area=true&area_color=1b1f24&hide_border=true" />
+</p>
 
 
-![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/9e36012b-c016-4289-9b96-9e56aedac23e)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=link2shoaibansari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -145,12 +155,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![octocat-1741296152111](https://github.com/user-attachments/assets/13e72464-cf24-472f-80d0-f1e1ef87d71a)
-
-
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=link2shoaibansari&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=link2shoaibansari&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
