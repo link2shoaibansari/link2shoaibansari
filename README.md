@@ -46,12 +46,6 @@
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Solution Clallenge'24</div>
         </td>
       <tr>
-          <td align="center">
-          <img src="https://www.cloudskillsboost.google/public_profiles/1d5b46be-64ff-4143-b288-59f710571270/badges/14376389" 
-               alt="Google Arcade March'25" 
-               style="width: 100px; height: 120px; border-radius: 50%;">
-          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">Google Arcade March'25</div>
-        </td>
         <td align="center">
           <img src="https://developers.google.com/static/profile/badges/events/community/devfest/2023/attendee/badge.svg" 
                alt="DevFest'23 Attendee" 
