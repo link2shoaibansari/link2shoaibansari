@@ -28,6 +28,7 @@
 <a href="https://instagram.com/mdshoaibansari_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mdshoaibansari_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@link2shoaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@link2shoaib" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/link2shoaib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="link2shoaib" height="30" width="40" /></a>
+<a href="https://www.gmail.com" target="blank"><img align="center" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r5.png" alt="link2shoaib" height="30" width="40" /></a>
 <a href="https://g.dev/link2shoaib" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v718dd607f99926e9e0e7eb375d5f6155db0a99cab136ac991f232c506c338c80/developers/images/lockup-new.svg" alt="link2shoaib" height="100" width="100" /></a>
 </p>
 
