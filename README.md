@@ -121,6 +121,12 @@
                style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
           <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">February 2025</div>
         </td>
+          <td align="center">
+          <img src="https://assets.leetcode.com/static_assets/marketing/202503.gif" 
+               alt="LeetCode March 2025" 
+               style="width: 120px; height: 120px; border-radius: 50%; cursor: pointer;">
+          <div style="margin-top: 8px; font-weight: bold; font-size: 14px;">March 2025</div>
+        </td>
       </tr>
     </table>
   </a>
