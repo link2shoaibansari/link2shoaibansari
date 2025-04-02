@@ -135,7 +135,6 @@
 Profile:
 
 ![212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c](https://github.com/user-attachments/assets/8b1094e3-0be9-48ff-aa22-cd44ae7f65a3)
-![](https://leetcard.jacoblin.cool/link2shoaib?cache=0)
 ![](https://leetcard.jacoblin.cool/link2shoaib?ext=heatmap)
 [![](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Flink2shoaib&logo=leetcode&logoColor=yellow)](https://leetcode.com/link2shoaib/)
 [![](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/link2shoaib/)
