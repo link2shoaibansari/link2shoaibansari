@@ -4,6 +4,11 @@
 </h1>
 <img src="https://komarev.com/ghpvc/?username=link2shoaibansari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile-views" />
 
+## 📝 Resume
+
+📄 [Click here to view or download my resume](https://github.com/link2shoaibansari/link2shoaibansari/blob/main/Resume.pdf)
+
+
 - 🔭 I’m currently working on **SOS emergency application**
 
 - 🌱 I’m currently learning **Flutter/Dart, UI/UX(Figma), Prompt engineering**
