@@ -6,7 +6,7 @@
 
 ## 📝 Resume
 
-📄 [Click here to view or download my resume](https://github.com/link2shoaibansari/link2shoaibansari/blob/main/Resume.pdf)
+📄 [Click here to view or download my resume](https://github.com/link2shoaibansari/link2shoaibansari/blob/main/My_Resume.pdf)
 
 
 - 🔭 I’m currently working on **SOS emergency application**
